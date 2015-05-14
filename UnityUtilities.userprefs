@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\2dRepeatObjectOnX\Scripts\RepeatSprite.cs">
+    <Files>
+      <File FileName="Assets\Persistence\Scripts\GameController\PlayerPrefsScript.cs" Line="1" Column="1" />
+      <File FileName="..\RobertTheGame\rbt-gm\rbt-gm\Assets\Scripts\Character\DefaultMovement.cs" Line="1" Column="1" />
+      <File FileName="..\RobertTheGame\rbt-gm\rbt-gm\Assets\Scripts\Character\ChangeClass.cs" Line="1" Column="1" />
+      <File FileName="..\RobertTheGame\rbt-gm\rbt-gm\Assets\Scripts\NamesPatterns\ClassesObjectsNames.cs" Line="1" Column="1" />
+      <File FileName="..\RobertTheGame\rbt-gm\rbt-gm\Assets\Scripts\NamesPatterns\AnimationsNames.cs" Line="1" Column="1" />
+      <File FileName="..\RobertTheGame\rbt-gm\rbt-gm\Assets\Scripts\NamesPatterns\HashAnimatorPowerClassMovement.cs" Line="1" Column="1" />
+      <File FileName="..\RobertTheGame\rbt-gm\rbt-gm\Assets\Scripts\NamesPatterns\Buttons.cs" Line="1" Column="1" />
+      <File FileName="..\RobertTheGame\rbt-gm\rbt-gm\Assets\Scripts\Character\CameraMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\2dParallax\Scripts\ParallaxObject.cs" Line="6" Column="46" />
+      <File FileName="Assets\2dRepeatObjectOnX\Scripts\RepeatSprite.cs" Line="12" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
